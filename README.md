@@ -1,3 +1,6 @@
+
+Here’s your edited README.md, maintaining clarity and structure with minor improvements for readability and flow:
+
 Software Engineer - ✨ Sahil Khotkar
 Contact Information
 📧 Email: khotkar.sahil@gmail.com
@@ -7,7 +10,8 @@ Contact Information
 🌟 Portfolio: Under Development
 
 About Me
-I am a passionate Software Engineer with 2.3 years of professional experience in developing scalable web and mobile applications. My expertise spans multiple modern technologies, and I am enthusiastic about continuous learning and improving my skillset. I enjoy building robust solutions, focusing on clean code, efficient algorithms, and optimizing data handling practices.
+I am a passionate Software Engineer with 2.3 years of professional experience in developing scalable web and mobile applications. My expertise spans multiple modern technologies, and I am enthusiastic about continuous learning and improving my skillset.
+I enjoy building robust solutions, focusing on clean code, efficient algorithms, and optimizing data handling practices.
 
 Technical Skills
 Programming Languages
