@@ -15,7 +15,7 @@ Professional portfolio showcasing expertise in software development.
 
 ## About Me  
 
-I am a passionate Software Engineer with **2.3 years** of professional experience in developing scalable web and mobile applications.  
+I am a passionate Software Engineer with **2.6 years** of professional experience in developing scalable web and mobile applications.  
 My expertise spans multiple modern technologies, and I am enthusiastic about continuous learning and improving my skillset.  
 
 I enjoy building robust solutions, focusing on clean code, efficient algorithms, and optimizing data handling practices.  
